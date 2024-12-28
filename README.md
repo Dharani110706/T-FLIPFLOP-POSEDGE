@@ -66,3 +66,4 @@ T flipflop using verilog and validating their functionality using their function
 
 
 **RESULTS**
+T flipflop using verilog and validating their functionality using their functional tables is verified.
